@@ -8,7 +8,6 @@ The system allows users to:
 - Browse books
 - Borrow books
 - Return books
-- Manage users and roles
 
 The system allows librarian to:
 - Register and login
